@@ -106,6 +106,6 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e dis
 
 ---
 
-## ✨ Autor
+## 🧑‍💻 Autor
 
 Desenvolvido por **lywsmic**
