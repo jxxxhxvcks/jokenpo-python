@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner do Projeto" />
+</p>
+
 # 🪨 Pedra, Papel e Tesoura (Jokenpô) - Python
 
 Um simples jogo de Pedra, Papel e Tesoura feito em Python, com animação estilo "JO-KEN-PÔ" e colorido no terminal. O objetivo é vencer o computador — o jogo continua até que o jogador ganhe.
