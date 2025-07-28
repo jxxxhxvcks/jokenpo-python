@@ -104,12 +104,6 @@ Você precisou de 3 chances para acertar.
 
 ---
 
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
-
----
-
 ## 🧑‍💻 Autor
 
 Desenvolvido por **lywsmic**
