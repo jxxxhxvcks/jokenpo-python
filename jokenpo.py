@@ -63,7 +63,7 @@ while True: # Executar o código sempre, até o jogador vencer
         if jogador == 0:
             print(f"{cores['verde']}Parabéns, você venceu!{cores['reset']}")
             break
-        if jogador == 1:
+        elif jogador == 1:
             print(f"{cores['vermelho']}Infelizmente você perdeu. Você jogou {itens[jogador]} e o PC jogou {itens[pc]}")
             print(f"{cores['cinza']}Tente novamente{cores['reset']}", end=' ')
             jogador = int(input(f">> Digite sua escolha: "))
