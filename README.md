@@ -106,4 +106,4 @@ Você precisou de 3 chances para acertar.
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por **lywsmic**
+Desenvolvido por **lywsmic** (jxxxhxvcks)
