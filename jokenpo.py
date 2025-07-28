@@ -33,7 +33,7 @@ while True: # Executar o código sempre, até o jogador vencer
     sleep(0.5)
     print(f"{cores['azulclaro']}PÔ{cores['reset']}")
     sleep(1)
-    if jogador > 2 or jogador < 0: # Caso não seja uma opção válida, o código encerra.
+    if jogador > 2 or jogador < 0:
         print(f"{cores['vermelho']}{jogador}{cores['reset']} não é uma opção válida. Tente novamente.")
         jogador = int(input(f">> Digite sua escolha: "))
     if pc == jogador:
